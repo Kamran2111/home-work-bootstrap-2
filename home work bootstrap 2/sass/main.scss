@@ -1,0 +1,11 @@
+@import "./components/producy";
+$secondary: #2e363e;
+body {
+  font-family: "DM Sans", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+}
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
